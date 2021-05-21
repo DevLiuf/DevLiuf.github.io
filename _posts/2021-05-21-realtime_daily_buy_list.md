@@ -3,7 +3,7 @@ layout: single
 title: "추세전략#1 매수할 종목"
 ---
 
-#전일가 대비 3%증가 종목 매수하여 1%익절, -5%손절하는 전략
+# 전일가 대비 3%증가 종목 매수하여 1%익절, -5%손절하는 전략
 2021년 02월 01일 부터 2021년 03월 17일 까지의 분별 시뮬레이션 결과
 | level\_0 | index | index2 | date | check\_item | code | code\_name | d1\_diff\_rate | close | open | high | low | volume | clo5 | clo10 | clo20 | clo40 | clo60 | clo80 | clo100 | clo120 | clo5\_diff\_rate | clo10\_diff\_rate | clo20\_diff\_rate | clo40\_diff\_rate | clo60\_diff\_rate | clo80\_diff\_rate | clo100\_diff\_rate | clo120\_diff\_rate | yes\_clo5 | yes\_clo10 | yes\_clo20 | yes\_clo40 | yes\_clo60 | yes\_clo80 | yes\_clo100 | yes\_clo120 | vol5 | vol10 | vol20 | vol40 | vol60 | vol80 | vol100 | vol120 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
